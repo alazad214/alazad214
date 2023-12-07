@@ -1,6 +1,7 @@
 ## Hello, I'm Al Azad ✌️
 
--I'm Flutter Developer
+- I'm Flutter Developer
+- 
 -I’m currently learning Flutter & Dart
 
 ##🚼 About Me
