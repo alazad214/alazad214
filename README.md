@@ -1,8 +1,11 @@
-### Hi there 👋, I'm Al Azad
-![](https://www.facebook.com/photo/?fbid=694375068591029&set=a.100957024599506)
+# Hello, I'm Al Azad 👋
+
+- ▪️I'm Flutter Developer
+- ▪️I’m currently learning Flutter & Dart
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
+#  Skills & Experiance
 Skills: FLUTTER / DART/ FIGMA / FIREBASE/ 
 
 - 🔭 I’m currently working on Flutter & Dart 
