@@ -11,6 +11,14 @@ I am a flutter mobile app developer. I have a good relationship with technology.
 - 🔷DART
 - 🔶FIREBASE
 - 🔷FIGMA
+- 🔶API INTEGATION
+- 🔷OOP
+- 🔶REST API
+- 🔷ADMOB
+- 🔶GITHUB
+- 🔷ANDROID STUDIO
+- 🔶PAYMENT GATEWAY
+- 🔷GOOGLE MAP
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alazad214)](https://github.com/anuraghazra/github-readme-stats)
 
