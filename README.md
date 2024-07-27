@@ -7,10 +7,10 @@
 I am a flutter mobile app developer. I have a good relationship with technology. I love learning about new technologies. I am very focused on my work. I am willing to give 100% to complete my work.I am strategic, goal-oriented, and always work with an end goal in mind.I'm still trying to perfect Flutter.
 
 ## Skills & Experiance
-- 🔹FLUTTER FRAMEWORK
+- 🔹FLUTTER 
 - 🔹DART, JAVA 
-- 🔹OOP(Object oriented programmin)
-- 🔹FIREBASE(DATABASE, STORAGE, )
+- 🔹OOP (Object oriented programmin)
+- 🔹FIREBASE (DATABASE, STORAGE, AUTHENTICATION, NOTIFICATION)
 - 🔹FIGMA & ADOBE XD
 - 🔹REST API
 - 🔹API INTEGATION
@@ -19,9 +19,9 @@ I am a flutter mobile app developer. I have a good relationship with technology.
 - 🔹ANDROID STUDIO & VS CODE
 - 🔹PAYMENT GATEWAY
 - 🔹GOOGLE MAP
-- 🔹Animation(using the animation package, custom animations)
-- 🔹State management (Getx)
-- 🔹Testing(unit, widget)
+- 🔹ANIMATION(PACKAGE, CUSTOM ANIMATION)
+- 🔹STATE MANAGEMENT (Getx)
+- 🔹TESTING (unit, widget)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alazad214)](https://github.com/anuraghazra/github-readme-stats)
 
