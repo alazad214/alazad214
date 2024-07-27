@@ -3,29 +3,36 @@
 - I'm Flutter Developer
 - I’m currently learning Flutter & Dart
 
-## 🚼 About Me
+## About Me
 I am a flutter mobile app developer. I have a good relationship with technology. I love learning about new technologies. I am very focused on my work. I am willing to give 100% to complete my work.I am strategic, goal-oriented, and always work with an end goal in mind.I'm still trying to perfect Flutter.
 
-## 📊 Skills & Experiance
-- 🔶FLUTTER
-- 🔷DART
-- 🔶FIREBASE
-- 🔷FIGMA
-- 🔶API INTEGATION
-- 🔷OOP
-- 🔶REST API
-- 🔷ADMOB
-- 🔶GITHUB
-- 🔷ANDROID STUDIO
-- 🔶PAYMENT GATEWAY
-- 🔷GOOGLE MAP
+## Skills & Experiance
+- 🔹FLUTTER FRAMEWORK
+- 🔹DART, JAVA 
+- 🔹OOP(Object oriented programmin)
+- 🔹FIREBASE(DATABASE, STORAGE, )
+- 🔹FIGMA & ADOBE XD
+- 🔹REST API
+- 🔹API INTEGATION
+- 🔹ADMOB
+- 🔹GIT & GITHUB
+- 🔹ANDROID STUDIO & VS CODE
+- 🔹PAYMENT GATEWAY
+- 🔹GOOGLE MAP
+- 🔹Animation(using the animation package, custom animations)
+- 🔹State management (Getx)
+- 🔹Testing(unit, widget)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alazad214)](https://github.com/anuraghazra/github-readme-stats)
 
-## ♻️ Connect with Me:
+## Connect with Me:
 
 [
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alazad214)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/alazad214)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/al_azad_316//)
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alazad214)   
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/alazad214)     
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/al_azad_316//)
 
 
 
