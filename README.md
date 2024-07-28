@@ -9,7 +9,7 @@ I am a flutter mobile app developer. I have a good relationship with technology.
 ## Skills & Experiance
 - 🔹FLUTTER 
 - 🔹DART, JAVA 
-- 🔹OOP (Object oriented programmin)
+- 🔹OOP (Object oriented programming)
 - 🔹FIREBASE (DATABASE, STORAGE, AUTHENTICATION, NOTIFICATION)
 - 🔹FIGMA & ADOBE XD
 - 🔹REST API
