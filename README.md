@@ -27,6 +27,16 @@ I am a flutter mobile app developer. I have a good relationship with technology.
 
 
 
+![Build Status](https://github.com/username/repository/workflows/CI/badge.svg)
+
+
+![Codecov](https://codecov.io/gh/username/repository/branch/main/graph/badge.svg)
+
+![Coveralls](https://coveralls.io/repos/github/username/repository/badge.svg?branch=main)
+
+
+
+![GitHub commit count](https://img.shields.io/github/commit-activity/total/username/repository)
 
 
 
