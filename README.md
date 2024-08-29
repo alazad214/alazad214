@@ -10,6 +10,19 @@
 ## About Me
 I am a flutter mobile app developer. I have a good relationship with technology. I love learning about new technologies. I am very focused on my work. I am willing to give 100% to complete my work.I am strategic, goal-oriented, and always work with an end goal in mind.I'm still trying to perfect Flutter.
 
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST API]([https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white](https://www.datocms-assets.com/48294/1680848744-rest-api-1-rest-api.png?auto=format))
+
+
 ## Skills & Experiance
 - 🔹FLUTTER 
 - 🔹DART, JAVA 
