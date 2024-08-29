@@ -11,6 +11,9 @@
 I am a flutter mobile app developer. I have a good relationship with technology. I love learning about new technologies. I am very focused on my work. I am willing to give 100% to complete my work.I am strategic, goal-oriented, and always work with an end goal in mind.I'm still trying to perfect Flutter.
 
 ## Skills & Experiance
+
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
+- **Programming Languages:** Dart, JavaScript, Python, C++
 - 🔹FLUTTER 
 - 🔹DART, JAVA 
 - 🔹OOP (Object oriented programming)
