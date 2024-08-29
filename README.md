@@ -12,8 +12,14 @@ I am a flutter mobile app developer. I have a good relationship with technology.
 
 ## Skills & Experiance
 
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
-- **Programming Languages:** Dart, JavaScript, Python, C++
+<div style="border: 2px solid #4CAF50; padding: 15px; border-radius: 10px; background-color: #f0f0f0;">
+  <p>
+    🖥️ **Languages**: Dart, JavaScript, Python, C++ <br>
+    🚀 **Frameworks**: Flutter, React, Django <br>
+    🛠️ **Tools**: Git, Docker, Firebase <br>
+    🗄️ **Databases**: MySQL, PostgreSQL, MongoDB
+  </p>
+</div>
 - 🔹FLUTTER 
 - 🔹DART, JAVA 
 - 🔹OOP (Object oriented programming)
