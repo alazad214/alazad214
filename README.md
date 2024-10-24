@@ -1,5 +1,3 @@
-![Alt text]([https://example.com/path/to/image.png](https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/456662068_122142124496303112_7749984328996011944_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeF9k_2Usc0pv1yO9rOOas_oKWCURLdajUUpYJREt1qNRUUzmeUFX6fKZZCjCL3y-JZ45G4cqG-DDx2cmhvPYE8U&_nc_ohc=u6TPv4ubZxMQ7kNvgE1uJRO&_nc_ht=scontent.fdac135-1.fna&_nc_gid=AkDlhyK-p63mul2PlUI5leS&oh=00_AYAyynd26CneMMYpZvca0z4zP8WKsM9PEUBdcqvIH-IcGg&oe=67203730))
-
 
 ## Hello, I'm Al Azad ✌️
 - I'm Flutter Developer
