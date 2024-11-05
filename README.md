@@ -1,10 +1,6 @@
 
 ## Hello, I'm Al Azad ✌️
-- I'm Flutter Developer
-- I’m currently learning Flutter Development.
-
-## About Me
-I am a flutter mobile app developer. I have a good relationship with technology. I love learning about new technologies. I am very focused on my work. I am willing to give 100% to complete my work.I am strategic, goal-oriented, and always work with an end goal in mind.I'm still trying to perfect Flutter.
+As a committed Flutter developer that is enthusiastic about technology and lifelong learning, I am committed to producing high-quality work and honing my craft.
 
 ## Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
