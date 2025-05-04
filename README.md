@@ -1,6 +1,6 @@
 
-## Hello, I'm Azad ✌️
-As a passionate Flutter developer with a strong enthusiasm for technology and lifelong learning, I strive to produce high-quality work while continuously honing my craft.
+## Hello, I'm Azad,
+Focusing on Flutter development for Android, iOS, and Web. Aspiring to become an expert Flutter app developer. I enjoy exploring new tech stacks to build innovative and impactful applications.
 
 ## 🚀 Tech Stack:
 
@@ -36,6 +36,6 @@ As a passionate Flutter developer with a strong enthusiasm for technology and li
 </div>
 
 ##  Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://www.facebook.com/alazad214/](https://www.facebook.com/azad214official)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alazad214/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alazad214) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@alazad214) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([](https://www.facebook.com/alazad214)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alazad214/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alazad214) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@alazad214) 
 
 
