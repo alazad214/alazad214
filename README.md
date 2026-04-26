@@ -3,8 +3,8 @@
   <img src="https://raw.githubusercontent.com/alazad214/alazad214/refs/heads/main/azad_cover_banner.jpeg" alt="Cover Banner" width="100%">
 </p>
 
-## Hello, I'm Azad,
-Focusing on Flutter development for Android, iOS, and Web. Aspiring to become an expert Flutter app developer. I enjoy exploring new tech stacks to build innovative and impactful applications.
+## Hello! I'm Abk Azad, a Software Engineer based in Bangladesh.,
+Focusing on Mobile Apps development for Android, iOS, and Web. Aspiring to become an expert Flutter app developer. I enjoy exploring new tech stacks to build innovative and impactful applications.
 
 ## 🚀 Tech Stack:
 
