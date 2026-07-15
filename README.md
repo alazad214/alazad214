@@ -6,7 +6,7 @@
 ## Hello! I'm Azad, a Software Developer based in Bangladesh.
 I'm currently working on cross-platform mobile application development using Flutter, building high-quality apps for Android, iOS, and Flutter Web. I enjoy exploring new technologies to build innovative and impactful applications.
 
-## 🚀 My Tech Stack
+## Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -28,6 +28,7 @@ I'm currently working on cross-platform mobile application development using Flu
 
  
 ##  Get in Touch:
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([](https://www.facebook.com/alazad214)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alazad214/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alazad214) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@alazad214) 
 
 
