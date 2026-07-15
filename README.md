@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/alazad214/alazad214/refs/heads/main/azad_cover_banner.jpeg" alt="Cover Banner" width="100%">
 </p>
 
-#Hello! I'm Azad, a Software Developer based in Bangladesh.
+## Hello! I'm Azad, a Software Developer based in Bangladesh.
 I'm currently working on cross-platform mobile application development using Flutter, building high-quality apps for Android, iOS, and Flutter Web. I enjoy exploring new technologies to build innovative and impactful applications.
 
 ## 🚀 My Tech Stack
@@ -21,11 +21,10 @@ I'm currently working on cross-platform mobile application development using Flu
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
 ![In-App Purchase](https://img.shields.io/badge/In%20App%20Purchase-%23F24E1E.svg?style=for-the-badge&logo=google-play&logoColor=white)
 ![Google Map](https://img.shields.io/badge/Google%20Map-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git & GitHub](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-8E44AD?style=for-the-badge&logo=figma&logoColor=white)
 ![App Publishing](https://img.shields.io/badge/App_Publishing-0D96F6?style=for-the-badge&logo=google-play&logoColor=white)
-![Agentic Coding](https://img.shields.io/badge/AI%20Agent-%23007ACC.svg?style=for-the-badge&logo=ai&logoColor=white)
+![Agentic Coding](https://img.shields.io/badge/Agentic_Coding-412991?style=for-the-badge&logo=openai&logoColor=white)
 
  
 ##  Socials:
