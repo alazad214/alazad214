@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alazad214/alazad214/refs/heads/main/azad_cover_banner.jpeg" alt="Cover Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/alazad214/alazad214/refs/heads/main/azad cover github.png" alt="Cover Banner" width="100%">
 </p>
 
 ## Hello! I'm Azad, a Software Developer based in Bangladesh.
