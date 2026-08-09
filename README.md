@@ -25,8 +25,7 @@ I'm currently working on cross-platform mobile application development using Flu
 ![GitHub](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/UI%2FUX_Design-8E44AD?style=for-the-badge&logo=figma&logoColor=white)
 ![App Publishing](https://img.shields.io/badge/App_Publishing-0D96F6?style=for-the-badge&logo=google-play&logoColor=white)
-![Agentic Coding](https://img.shields.io/badge/Agentic_Coding-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AI-Assisted Dev](https://img.shields.io/badge/AI--Assisted_Dev_%26_Debugging-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![AI-Assisted Coding](https://img.shields.io/badge/AI--Assisted_Dev_%26_Debugging-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 
  
 ##  Get in Touch:
