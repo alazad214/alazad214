@@ -21,11 +21,11 @@ I'm currently working on cross-platform mobile application development using Flu
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
 ![In-App Purchase](https://img.shields.io/badge/In%20App%20Purchase-%23F24E1E.svg?style=for-the-badge&logo=google-play&logoColor=white)
-![Maps](https://img.shields.io/badge/Google%20Map-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
-![GitHub](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/UI%2FUX_Design-8E44AD?style=for-the-badge&logo=figma&logoColor=white)
+![Maps](https://img.shields.io/badge/Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+![Github](https://img.shields.io/badge/Github-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-8E44AD?style=for-the-badge&logo=figma&logoColor=white)
 ![App Publishing](https://img.shields.io/badge/App_Publishing-0D96F6?style=for-the-badge&logo=google-play&logoColor=white)
-![AI-Assisted Coding](https://img.shields.io/badge/AI--Assisted_Dev_%26_Debugging-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![AI-Assisted Coding](https://img.shields.io/badge/AI--Assisted_Coding-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 
  
 ##  Get in Touch:
